@@ -1,6 +1,9 @@
 # HR-Employee-Report-Dashboard
 The dataset was cleaned and queried using MySQL and visualized using PowerBI
 
+<img width="1659" height="963" alt="Dashboard" src="https://github.com/user-attachments/assets/8bdef8f2-2ce0-4660-a300-e933b0d16c73" />
+
+
 
 ### Data
 HR Data with over 22000 rows from the year 2000 to 2020.
